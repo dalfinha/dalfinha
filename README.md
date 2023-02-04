@@ -1,16 +1,19 @@
-### Hi there 👋
+### Oiê! Pode me chamar de Dalfinha 👋 <br>
+> Aqui no GitHub, você irá encontrar meu material de estudo e treino para futuros projetos envolvendo PowerShell :)<br>
 
-<!--
-**dalfinha/dalfinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Suspeita pra falar de <b>Windows Server + Shell Script.</b><br>
+✉️ Certificada PL-900 e formanda em Análise e Desenvolvimento de Sistemas na FATECRL.
+<br>
+<br>
+Atualmente faço estágio como sysadmin e atuo com: <br>
+    - Administração do Microsoft 365. <br>
+    - Desenvolvimento de aplicações low-code via Power Platform.<br>
+    - Automações em PowerShell para Windows Server.<br>
+    - Sistemas de arquivos distribuídos (FSRM, DFS, SMB).<br>
+    - Gerenciamento de identidade e acesso com Active Directory e Azure.<br>
+<br>
+Linkedin  <br>
+📍 https://www.linkedin.com/in/dalva-mariana/
+<br><br>
+Microsoft Learn <br>
+📚 https://learn.microsoft.com/pt-br/users/dalvinha/
