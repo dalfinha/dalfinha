@@ -7,11 +7,11 @@
 <br>
 <br>
 Atualmente faço estágio como sysadmin e atuo com: <br>
-    - Administração do Microsoft 365. <br>
-    - Desenvolvimento de aplicações low-code via Power Platform.<br>
-    - Automações em PowerShell para Windows Server.<br>
-    - Sistemas de arquivos distribuídos (FSRM, DFS, SMB).<br>
-    - Gerenciamento de identidade e acesso com Active Directory e Azure.<br>
+     ⭐ Administração do Microsoft 365. <br>
+     ⭐ Desenvolvimento de aplicações low-code via Power Platform.<br>
+     ⭐ Automações em PowerShell para Windows Server.<br>
+     ⭐ Sistemas de arquivos distribuídos (FSRM, DFS, SMB).<br>
+     ⭐ Gerenciamento de identidade e acesso com Active Directory e Azure.<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="PSO-D" height="40" width="40"src="https://img.icons8.com/color/256/powershell.svg" >
   <img align="center" alt="Linux-D" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
