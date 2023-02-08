@@ -1,4 +1,4 @@
-### Oiê! Pode me chamar de Dalfinha 👋 <br>
+### Oiê!👋 Pode me chamar de Dalfinha <br>
 > Aqui no GitHub, você irá encontrar meu material de estudo e treino para futuros projetos envolvendo PowerShell :)<br>
 
 ✨ Suspeita pra falar de <b>Windows Server + Shell Script.</b><br>
@@ -12,9 +12,18 @@ Atualmente faço estágio como sysadmin e atuo com: <br>
     - Automações em PowerShell para Windows Server.<br>
     - Sistemas de arquivos distribuídos (FSRM, DFS, SMB).<br>
     - Gerenciamento de identidade e acesso com Active Directory e Azure.<br>
-<br>
-Linkedin  <br>
-📍 https://www.linkedin.com/in/dalva-mariana/
-<br><br>
-Microsoft Learn <br>
-📚 https://learn.microsoft.com/pt-br/users/dalvinha/
+<div style="display: inline_block"><br>
+  <img align="center" alt="PSO-D" height="40" width="40"src="https://img.icons8.com/color/256/powershell.svg" >
+  <img align="center" alt="Linux-D" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
+  <img align="center" alt="WServer-D" height="60" width="40"src="https://img.icons8.com/fluency/256/windows-10.svg" >
+  <img align="center" alt="Azure-D" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" >
+  <img align="center" alt="D-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="D-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="D-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div><br>
+
+<div> 
+  <a href = "mailto:dalva.mariana.dm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dalva-mariana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://learn.microsoft.com/pt-br/users/dalvinha/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-008000?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a> 
+</div>
