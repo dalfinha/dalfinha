@@ -6,7 +6,7 @@
 ♻️ Voluntária na ONG Tampa Amiga em Santos.
 <br>
 <br>
-Atualmente faço estágio como sysadmin e atuo com: <br>
+Estagiária e atuo com: <br>
      ⭐ Administração do Microsoft 365. <br>
      ⭐ Desenvolvimento de aplicações low-code via Power Platform.<br>
      ⭐ Automações em PowerShell para Windows Server.<br>
