@@ -14,6 +14,7 @@ Estagiária, atuo com: <br>
      ⭐ Gerenciamento de identidade e acesso com Active Directory e Azure.<br>
      ⭐ Desenvolvimento de aplicativos no Power Apps.<br>
      ⭐ Fluxos automáticos com o Power Automate.<br>
+     ⭐ Observability com Prometheus e Grafana.<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="PSO-D" height="40" width="40"src="https://img.icons8.com/color/256/powershell.svg" >
   <img align="center" alt="Linux-D" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
