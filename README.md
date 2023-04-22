@@ -25,8 +25,10 @@ Estagiária, atuo com: <br>
   <img align="center" alt="D-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
+### Me encontre!⭐ 
 <div> 
   <a href = "mailto:dalva.mariana.dm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dalva-mariana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://learn.microsoft.com/pt-br/users/dalvinha/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-008000?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a> 
-</div>
+        <a href="https://medium.com/@dalfinha.tech" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+     <a href="https://www.hackerrank.com/dalvinha" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
