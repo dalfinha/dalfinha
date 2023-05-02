@@ -31,7 +31,7 @@
    <a href="https://learn.microsoft.com/pt-br/users/dalvinha/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-008000?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a> 
         <a href="https://medium.com/@dalfinha.tech" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
      <a href="https://www.hackerrank.com/dalvinha" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
-     
-     
-     
+<br>
+  
+  
 > Coragem, modéstia e perseverança ❤️
