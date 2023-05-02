@@ -9,8 +9,9 @@
 🎶 Ouço vários géneros musicais e podcasts.<br>
 🌍 Antes de fazer ADS na FATEC cogitei fazer licenciatura em Geografia por ser atraída por Cartografia até hoje.<br>
 ⚙️ Gosto muiiiiito de automatizar processos e tarefas repetitivas. Aqui em casa sempre invento um jeito novo de fazer a mesma coisa.<br>
-👩‍💻 Minha primeira paixão foi Redes de Computadores e Segurança da Informação, o que me fizeram estudar e me graduar na área de tecnologia, abrindo o leque para outras áreas que também sou apaixonada.<br>
-♻️ Voluntária na ONG Tampa Amiga em Santos.<br>
+👩‍💻 Minha primeira paixão foi Redes de Computadores e Segurança da Informação, o que me fez estudar e me graduar na área de tecnologia, onde conheci muitas outras áreas de estudo.<br>
+♻️ Voluntária na ONG Tampa Amiga em Santos e membro da Woman Techmakers da Google.
+<br>
 🌟 1000% movida por desafios!<br>
 
 ## O que eu fiz e ando fazendo ⭐ 
