@@ -4,6 +4,7 @@
 
 ## Um pouquinho sobre mim ⭐ 
 🌟 Fã de Undertale, Deltarune e Bob Esponja. <br>
+🐱 Mãe da Panterinha, minha gatinha. <br>
 🎨 Desenho, pinto, crio e escrevo desde criança várias histórias que nunca saíram do papel.<br>
 🎶 Ouço vários géneros musicais além de também gostar bastante de ouvir podcasts.<br>
 🌍 Antes de fazer ADS na FATEC cogitei fazer licenciatura em Geografia por ser atraída por Cartografia desde criança.<br>
