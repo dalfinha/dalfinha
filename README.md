@@ -10,17 +10,17 @@
 🌍 Antes de fazer ADS na FATEC cogitei fazer licenciatura em Geografia por ser atraída por Cartografia até hoje.<br>
 ⚙️ Gosto muiiiiito de automatizar processos e tarefas repetitivas. Aqui em casa sempre invento um jeito novo de fazer a mesma coisa.<br>
 👩‍💻 Minha primeira paixão foi Redes de Computadores e Segurança da Informação, o que me fez estudar e me graduar na área de tecnologia, onde conheci muitas outras áreas de estudo.<br>
-♻️ Voluntária na ONG Tampa Amiga em Santos e membro da Woman Techmakers da Google.
-<br>
-🌟 1000% movida por desafios!<br>
+♻️ Voluntária na ONG Tampa Amiga em Santos e membro da Woman Techmakers da Google. <br>
+
+
 
 ## O que eu fiz e ando fazendo ⭐ 
 ✉️ Sou certificada PL-900 e em breve AWS Cloud Practitioner!<br>
 👩‍💻 Formanda em Análise e Desenvolvimento de Sistemas na FATECRL (Jun/2023).<br>
 📝 Escrevo para Medium sobre conceitos básicos de Cloud Computing e automação.<br>
 🔧 Construindo projetos com Flask e PowerShell remoto em servidores Windows.<br>
-🚀 Construindo aplicações low-code/no-code com Power Platform.< br >
-🆙 Me aprimorando cada vez mais no Inglês, traduzindo livros técnicos para melhorar a leitura e escrita já nível B2. <br
+🚀 Construindo aplicações low-code/no-code com Power Platform.<br>
+🆙 Me aprimorando cada vez mais no Inglês, traduzindo livros técnicos para melhorar a leitura e escrita já nível B2. <br>
 
 
   Estatisticamente falando: <br>
