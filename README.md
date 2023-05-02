@@ -6,9 +6,9 @@
 🌟 Fã de Undertale, Deltarune e Bob Esponja. <br>
 🐱 Mãe da Panterinha, minha gatinha. <br>
 🎨 Desenho, pinto, crio e escrevo desde criança várias histórias que nunca saíram do papel.<br>
-🎶 Ouço vários géneros musicais além de também gostar bastante de ouvir podcasts.<br>
-🌍 Antes de fazer ADS na FATEC cogitei fazer licenciatura em Geografia por ser atraída por Cartografia desde criança.<br>
-⚙️ Gosto muiiiiito de automatizar processos e tarefas repetitivas. Aqui em casa sempre invento uma forma nova de fazer a mesma coisa.<br>
+🎶 Ouço vários géneros musicais e podcasts.<br>
+🌍 Antes de fazer ADS na FATEC cogitei fazer licenciatura em Geografia por ser atraída por Cartografia até hoje.<br>
+⚙️ Gosto muiiiiito de automatizar processos e tarefas repetitivas. Aqui em casa sempre invento um jeito novo de fazer a mesma coisa.<br>
 👩‍💻 Minha primeira paixão foi Redes de Computadores e Segurança da Informação, o que me fizeram estudar e me graduar na área de tecnologia, abrindo o leque para outras áreas que também sou apaixonada.<br>
 ♻️ Voluntária na ONG Tampa Amiga em Santos.<br>
 🌟 1000% movida por desafios!<br>
