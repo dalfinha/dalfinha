@@ -18,7 +18,9 @@
 👩‍💻 Formanda em Análise e Desenvolvimento de Sistemas na FATECRL (Jun/2023).<br>
 📝 Escrevo para Medium sobre conceitos básicos de Cloud Computing e automação.<br>
 🔧 Construindo projetos com Flask e PowerShell remoto em servidores Windows.<br>
-🚀 Construindo aplicações low-code/no-code com Power Platform.<br>
+🚀 Construindo aplicações low-code/no-code com Power Platform.< br >
+🆙 Me aprimorando cada vez mais no Inglês, traduzindo livros técnicos para melhorar a leitura e escrita já nível B2. <br
+
 
   Estatisticamente falando: <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalfinha&layout=compact)
