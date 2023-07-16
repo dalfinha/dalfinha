@@ -15,10 +15,10 @@
 
 
 ## O que eu fiz e ando fazendo ⭐ 
-✉️ Sou certificada PL-900 e em breve AWS Cloud Practitioner!<br>
-👩‍💻 Formanda em Análise e Desenvolvimento de Sistemas na FATECRL (Jun/2023).<br>
+✉️ Sou certificada PL-900 e AWS Cloud Practitioner!<br>
+👩‍💻 Formanda em Análise e Desenvolvimento de Sistemas na FATECRL (1º2023).<br>
 📝 Escrevo para Medium sobre conceitos básicos de Cloud Computing e automação.<br>
-🔧 Construindo projetos com Flask e PowerShell remoto em servidores Windows.<br>
+🔧 Construindo projetos com Terraform.<br>
 🚀 Construindo aplicações low-code/no-code com Power Platform.<br>
 🆙 Me aprimorando cada vez mais no Inglês, traduzindo livros técnicos para melhorar a leitura e escrita já nível B2. <br>
 
