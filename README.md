@@ -4,22 +4,18 @@
 
 ## Um pouquinho sobre mim ⭐ 
 🌟 Fã de Undertale, Deltarune e Bob Esponja. <br>
-🐱 Mãe da Panterinha, minha gatinha. <br>
-🎨 Desenho, pinto, crio e escrevo desde criança várias histórias que nunca saíram do papel.<br>
+🐱 Mãe da Pantera, minha gatinha. <br>
+🎨 Desenho, pinto, crio e escrevo.<br>
 🎶 Ouço vários géneros musicais e podcasts.<br>
-🌍 Antes de fazer ADS na FATEC cogitei fazer licenciatura em Geografia por ser atraída por Cartografia até hoje.<br>
-⚙️ Gosto muiiiiito de automatizar processos e tarefas repetitivas. Aqui em casa sempre invento um jeito novo de fazer a mesma coisa.<br>
-👩‍💻 Minha primeira paixão foi Redes de Computadores e Segurança da Informação, o que me fez estudar e me graduar na área de tecnologia, onde conheci muitas outras áreas de estudo.<br>
-♻️ Voluntária na ONG Tampa Amiga em Santos e membro da Woman Techmakers da Google. <br>
-
+🌍 Antes de fazer ADS na FATEC cogitei fazer licenciatura em Geografia.<br>
+♻️ Voluntária na ONG Tampa Amiga em Santos, membro da Woman Techmakers da Google e associada na ONG Mais Amor. <br>
 
 
 ## O que eu fiz e ando fazendo ⭐ 
-✉️ Sou certificada PL-900 e AWS Cloud Practitioner!<br>
-👩‍💻 Formanda em Análise e Desenvolvimento de Sistemas na FATECRL (1º2023).<br>
+✉️ Sou certificada PL-900, AWS Cloud Practitioner e SCRUM Fundamentals!<br>
+👩‍💻 Formada em Análise e Desenvolvimento de Sistemas na FATECRL (1º2023).<br>
 📝 Escrevo para Medium sobre conceitos básicos de Cloud Computing e automação.<br>
 🔧 Construindo projetos com Terraform.<br>
-🚀 Construindo aplicações low-code/no-code com Power Platform.<br>
 🆙 Me aprimorando cada vez mais no Inglês, traduzindo livros técnicos para melhorar a leitura e escrita já nível B2. <br>
 
 
