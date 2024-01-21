@@ -4,11 +4,10 @@
 
 ## Um pouquinho sobre mim ⭐ 
 🌟 Fã de Undertale, Deltarune e Bob Esponja. <br>
-🐱 Mãe da Pantera, minha gatinha. <br>
+🐱 Mãe da Pantera<br>
 🎨 Desenho, pinto, crio e escrevo.<br>
 🎶 Ouço vários géneros musicais e podcasts.<br>
-🌍 Antes de fazer ADS na FATEC cogitei fazer licenciatura em Geografia.<br>
-♻️ Voluntária na ONG Tampa Amiga em Santos, membro da Woman Techmakers da Google e associada na ONG Mais Amor. <br>
+]♻️ Voluntária na ONG Tampa Amiga em Santos, membro da Woman Techmakers da Google e associada na ONG Mais Amor. <br>
 
 
 ## O que eu fiz e ando fazendo ⭐ 
@@ -18,12 +17,18 @@
 🔧 Construindo projetos com Terraform.<br>
 🆙 Me aprimorando cada vez mais no Inglês, traduzindo livros técnicos para melhorar a leitura e escrita já nível B2. <br>
 
+## Certificações ⭐
+🎓PL-900: Microsoft Certified: Power Platform Fundamentals<br>
+🎓CLF-C01: AWS Certified Cloud Practitioner<br>
+🎓 Scrum Foundation<br>
+⌛ HashiCorp Certified: Terraform Associate
+
 
   Estatisticamente falando: <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalfinha&layout=compact)
 
 
-## Me encontre e me chama pra bater um papo⭐ 
+## Minhas redes⭐ 
 <div> 
   <a href = "mailto:dalva.mariana.dm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dalva-mariana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,5 +37,8 @@
      <a href="https://www.hackerrank.com/dalvinha" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
 <br>
   
+
+
+
   
 > Coragem, modéstia e perseverança ❤️
