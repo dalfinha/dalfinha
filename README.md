@@ -33,6 +33,7 @@
 - ☁️ [Como tirar a certificação AWS Cloud Practitioner](https://medium.com/@dalfinha.tech/xp-o-caminho-para-tirar-a-certifica%C3%A7%C3%A3o-aws-cloud-practitioner-a26a2f570cef)
 
 ---
+
 ### 📜 Certificações e certificações em andamento
 📜 Certificações e certificações em andamento<br>
 ✅ PL-900: Microsoft Certified – Power Platform Fundamentals<br>
@@ -45,7 +46,14 @@
 
 ### 📊 Linguagens mais utilizadas aqui no Github
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalfinha&layout=compact)
+<div align="center">
+  <a href="https://github.com/dalfinha">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalfinha&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  <a href="https://github.com/dalfinha">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dalfinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 ---
 
