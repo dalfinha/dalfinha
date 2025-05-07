@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/KdSSdItrFdgTB8drHT/giphy.gif" />
+</div>
+
 <h1 align="center">Bem-vindo ao meu GitHub! 👋</h1>
 <p align="center">É um prazer te receber por aqui! 😊</p>
 
@@ -31,7 +35,9 @@
 - 🛠️ [Comandos essenciais para usar Terraform](https://medium.com/@dalfinha.tech/iac-principais-comandos-para-criar-e-manter-recursos-no-terraform-1bd2ee6777af)
 - 📚 [Componentes essenciais do Kotlin](https://medium.com/@dalfinha.tech/pilulas-componentes-essenciais-do-kotlin-35db7dfec10c)
 - ☁️ [Como tirar a certificação AWS Cloud Practitioner](https://medium.com/@dalfinha.tech/xp-o-caminho-para-tirar-a-certifica%C3%A7%C3%A3o-aws-cloud-practitioner-a26a2f570cef)
+
 ---
+
 ### 🎤 Materiais de palestras
 
 - 🎙️ [Engenharia do Caos – Preparando sistemas reais para falhas reais](https://drive.google.com/file/d/1T_xtejtZMtZZOjeasxdzddOy5jGa-pDh/view?usp=drive_link)
@@ -39,15 +45,19 @@
 
 ---
 
-### 📊 Linguagens mais utilizadas aqui no Github
+### 🛠 Techs que domino
 
-<div align="center">
-  <a href="https://github.com/dalfinha">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalfinha&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-  <a href="https://github.com/dalfinha">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dalfinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+<div align="left">
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="40" alt="AWS" />
+  <img src="https://img.icons8.com/fluency/48/azure-1.png" height="40" alt="Azure" />
+  <img src="https://img.icons8.com/fluency/48/docker.png" height="40" alt="Docker" />
+  <img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" height="40" alt="Datadog" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" height="40" alt="Prometheus" />
+  <img src="https://img.icons8.com/fluency/48/grafana.png" height="40" alt="Grafana" />
+  <img src="https://img.icons8.com/color/48/terraform.png" height="40" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" height="40" alt="Python" />
+  <img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" height="40" alt="GitHub" />
 </div>
 
 ---
