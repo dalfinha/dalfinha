@@ -7,8 +7,8 @@
 [![Credly Badge](https://img.shields.io/badge/-Credly-0A84FF?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com/users/dalvinha/badges)](https://www.credly.com/users/dalvinha/badges)
 
 
-### @whoiam: SRE | Platform Engineer | DevOps
-De Santos, fã de Bob Esponja, música clássica e pizza de pepperoni. Amo desenhar, viajar, criar soluções novas e resolver desafios complexos. Atuo com tecnologia há 4 anos e sou palestrante desde 2024, escrevendo artigos e participando ativamente de eventos tech. Fui mentora no **Tech Experts do Itaú Unibanco** para a certificação **AWS Cloud Practitioner**, reconhecida pela **AWS Treinamento e Certificação do Brasil**, membro do **Google Women Techmakers** e voluntária ativa na organização de eventos de tecnologia.
+### _whoiam: SRE | Platform Engineer | DevOps 👾
+De Santos, fã de Bob Esponja, música clássica e pizza de pepperoni. Amo desenhar, viajar, criar soluções novas e resolver desafios de quebrar a cabeça. Atuo com tecnologia há 4 anos, sou palestrante desde 2024, escrevo artigos e ativamente estou participando de eventos tech por todo estado. Fui mentora no **Tech Experts do Itaú Unibanco** para a certificação **AWS Cloud Practitioner**, reconhecida pela **AWS Treinamento e Certificação do Brasil**, membro do **Google Women Techmakers** e voluntária ativa na organização de eventos de tecnologia.
 
 <div>
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect" width="120" />
