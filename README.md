@@ -4,7 +4,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/dalvinha)](https://github.com/dalvinha)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dalfinha.tech)](https://medium.com/@dalfinha.tech)
-[![Credly Badge](https://img.shields.io/badge/-Credly-0A84FF?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com/users/dalvinha/badges)](https://www.credly.com/users/dalvinha/badges)
+[![Credly Badge](https://img.shields.io/badge/-Credly-0A84FF?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com/users/dalvinha/badges)](https://www.credly.com/users/dalva-mariana/badges)
 
 
 ### _whoiam: SRE | Platform Engineer | DevOps 👾
