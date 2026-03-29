@@ -2,7 +2,7 @@
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ2MGp4ZWRyYjFkYWg2YXlsZWJhc3gxcnhlaW1vZHM1b2R1aGZocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2b0k36hxU1IA/giphy.gif" />
 </div>
 
-[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/dalvinha)](https://github.com/dalvinha)
+[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/dalvinha)](https://github.com/dalfinha)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dalfinha.tech)](https://medium.com/@dalfinha.tech)
 [![Credly Badge](https://img.shields.io/badge/-Credly-0A84FF?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com/users/dalvinha/badges)](https://www.credly.com/users/dalva-mariana/badges)
 
