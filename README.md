@@ -11,6 +11,7 @@
 De Santos, fã de Bob Esponja, música clássica e pizza de pepperoni. Amo desenhar, viajar, criar soluções novas e resolver desafios de quebrar a cabeça. Atuo com tecnologia desde 2021, sou palestrante desde 2024, escrevo artigos e ativamente estou participando de eventos tech por todo estado. Fui mentora no **Tech Experts do Itaú Unibanco** para a certificação **AWS Cloud Practitioner**, reconhecida pela **AWS Treinamento e Certificação do Brasil**, membro do **Google Women Techmakers** e voluntária ativa na organização de eventos de tecnologia.
 
 <div>
+  <img src="https://images.credly.com/images/1435c0bc-5a70-4618-a65f-b5da82d29fd2/blob" alt="Datadog APM Certified" width="120" />
   <img src="https://images.credly.com/images/77d92dec-5c60-447b-8326-c592812f2483/blob" alt="Datadog Certified" width="120" />
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect" width="120" />
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="120" />
